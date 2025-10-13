@@ -6,6 +6,6 @@ The bracket I modified can be found at https://www.printables.com/model/849210-b
 
 The NuBus shield I modified can be found at https://github.com/alxlab-zone66x/Reference_Design_Library/tree/main/Connector%20Shield%20for%20Macintosh%20II-Family%20Computer
 
-I did my best to align everything by using an STL generated from the KiCad PCB editor for the BlueSCSI v2 GitHub project (https://github.com/BlueSCSI/BlueSCSI-v2)
+I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
 
 I will include my Bambu Studio project file as well as the extension I made in FreeCAD for the bracket.
