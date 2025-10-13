@@ -8,4 +8,4 @@ The NuBus shield I modified can be found at https://github.com/alxlab-zone66x/Re
 
 I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
 
-I will include my Bambu Studio project file as well as the extension I made in FreeCAD for the bracket.
+I will include my Bambu Studio project file as well as the STL of the extension I made in FreeCAD for the bracket.
