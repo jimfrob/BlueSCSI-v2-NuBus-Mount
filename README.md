@@ -9,3 +9,4 @@ The NuBus shield I modified can be found at https://github.com/alxlab-zone66x/Re
 I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
 
 I will include my Bambu Studio project file as well as the STL of the extension I made in FreeCAD for the bracket.
+This adapter is only compatible with the larger Macintosh II style NuBus slots. I'm working on an adapter for the smaller slots found in computers such as my Quadra 650. I'll update this repository when it's finished.
