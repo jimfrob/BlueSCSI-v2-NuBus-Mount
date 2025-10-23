@@ -10,7 +10,7 @@ The NuBus shield I modified can be found at https://github.com/alxlab-zone66x/Re
 
 Since that first model wasn't compatible with my Quadra 650, I started over from scratch. These files are located in the Quadra folder.
 
-I still used the same Universal BlueSCSI v2 mount, but I used the slot cover found at https://www.printables.com/model/1223206-macintosh-quadraiiciiicx-nubus-slot-cover/files and modified it to remove the clips and add an SD card slot. I then created an extension that fits snugly over the NuBus connector and then is connected to the adapter with an M3 (for self-tapping) or M2.5 bolt. This single point of attachment allows the extension to pivot out of the way while angling the adapter into the slot. Everything should line up well once the extension is pressed onto the NuBus connector.
+I still used the same Universal BlueSCSI v2 mount, but I used the slot cover found at https://www.printables.com/model/1223206-macintosh-quadraiiciiicx-nubus-slot-cover/files and modified it to remove the clips and add an SD card slot. I then created an extension that fits snugly over the NuBus connector and then is connected to the adapter with an M3 (for self-tapping) or M2.5 (with a nut) bolt. This single point of attachment allows the extension to pivot out of the way while angling the adapter into the slot. Everything should line up well once the extension is pressed onto the NuBus connector.
 
 I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
 
