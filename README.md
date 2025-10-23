@@ -12,7 +12,7 @@ Since that first model wasn't compatible with my Quadra 650, I started over from
 
 I still used the same Universal BlueSCSI v2 mount, but I used the slot cover found at https://www.printables.com/model/1223206-macintosh-quadraiiciiicx-nubus-slot-cover/files and modified it to remove the clips and add an SD card slot. I then created an extension that fits snugly over the NuBus connector and then is connected to the adapter with an M3 bolt (for self-tapping) or M2.5x15 bolt with a nut. This single point of attachment allows the extension to pivot out of the way while angling the adapter into the slot. Everything should line up well once the extension is pressed onto the NuBus connector.
 
-I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
+In both cases, I did my best to align everything by using an STL generated from the KiCad PCB editor from the files from the BlueSCSI v2 GitHub page (https://github.com/BlueSCSI/BlueSCSI-v2)
 
-I will include my Bambu Studio project file as well as the STL of the extension I made in FreeCAD for the bracket.
+I will include my Bambu Studio project files as well as the STLs of the extensions I made in FreeCAD for the bracket.
 
